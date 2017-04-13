@@ -2248,16 +2248,17 @@
 			}
 
 	}
-	
+
 /* Rosy */
 #mypagetitle {
 		color: #fff;
 		text-align: center;
-		margin: 0;
+		margin-top: -150px;
+    margin-bottom: -50px;
 		padding: 10em 0 5em 0;
 		text-shadow: 6px 6px 0px #1c1c1c;
 	}
-	
+
 .col-1 {width: 8.33%;}
 .col-2 {width: 16.66%;}
 .col-3 {width: 25%;}
@@ -2357,7 +2358,7 @@ span.stretch {
 	line-height:150%;
 	padding: 20px;
 	font-weight:600;
-	
+
 }
 .question {
 	text-transform: uppercase;
@@ -2374,7 +2375,7 @@ span.stretch {
 }
 .step {
 	font-size:2rem;
-	color:#6161	
+	color:#6161
 }
 .small{
 	font-size:0.8rem;
@@ -2451,6 +2452,7 @@ a.orange:active {color: #71b6e9; text-decoration:underline;}
 				background-position: top left, top center;
 				background-attachment: scroll, scroll;
 				font-size: 14pt;
+
 			}
 
 			input, textarea, select {
@@ -2464,6 +2466,7 @@ a.orange:active {color: #71b6e9; text-decoration:underline;}
 			header p {
 				margin: 0.25em 0 0 0;
 				padding: 0 0 0.5em 0;
+
 			}
 
 		/* Box */
@@ -2525,7 +2528,7 @@ a.orange:active {color: #71b6e9; text-decoration:underline;}
 			}
 
 			body, input, textarea, select {
-	
+
 				font-size: 12pt;
 				letter-spacing: 0;
 			}
@@ -2648,6 +2651,7 @@ a.orange:active {color: #71b6e9; text-decoration:underline;}
 
 			#header {
 				padding: 6em 0 6em 0;
+
 			}
 
 				#header header {
@@ -2658,6 +2662,7 @@ a.orange:active {color: #71b6e9; text-decoration:underline;}
 					#header header h1 {
 						font-size: 1.75em;
 						letter-spacing: 6px;
+
 					}
 
 				#header footer {
