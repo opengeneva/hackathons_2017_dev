@@ -1,15 +1,19 @@
 ---
 layout: page
-title: About
+title: Open Geneva Hackathons
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+<strong>[Fr]</strong>
+Pour la troisième année de suite, les Open Geneva Hackatons réuniront chercheurs,
+développeurs et grand public autour de thèmes technologiques et sociaux d’intérêt
+pour la Genève internationale, la Genève entrepreneuriale, la Cité et tous ses acteurs.
+L’événement s’inscrit dans la stratégie numérique de l’Université
+de Genève et bénéficie du soutien d’un grand nombre de partenaires.</p>
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+<strong>[Eng]</strong>
+For the third year in a row, the Open Geneva Hackathons will unite researchers,
+developers and the general public on themes of social and technological importance
+for International Geneva, Entrepreneurial Geneva, and all the city’s inhabitants.
+The event is part of the digital strategy of the University
+of Geneva and benefits from the support of a large number of partners.

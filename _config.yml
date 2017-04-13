@@ -23,6 +23,8 @@ twitter_username: opengeneva
 github_username:  opengeneva
 port : 4001
 
+site.google_analytics : UA-56851854-8
+
 # Build settings
 markdown: kramdown
 theme: minima
