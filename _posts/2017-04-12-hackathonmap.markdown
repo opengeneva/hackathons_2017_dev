@@ -2,7 +2,7 @@
 layout: post
 title:  "carte des hackathons"
 date:   2017-04-12 10:06:26 +0200
-categories: jekyll update
+categories: organisation
 ---
 
 <iframe src="http://129.194.69.137/map/" width="100%" height="500"></iframe>

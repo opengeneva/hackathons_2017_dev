@@ -2,7 +2,7 @@
 
   <div class="wrapper">
 
-    <a class="site-title" href="{{ "/index" | relative_url}}">#ogh17</a>
+    <a class="site-title" href="{{ "/blog" | relative_url}}">Open Geneva Hackathons</a>
 
     <nav class="site-nav">
       <span class="menu-icon">
@@ -14,11 +14,9 @@
       </span>
 
       <div class="trigger">
-        <a class="page-link" href="#">News </a> &nbsp; &nbsp;
-        <a class="page-link" href="#">Participer / Participate </a>
-        <a class="page-link" href="http://129.194.69.137/map/">Carte / Map</a>
-        <a class="page-link" href="/about">A propos / About</a>
-        <a class="page-link" href="http://129.194.69.137/wiki/">Wiki</a>
+        <a class="page-link" href="{{ site.baseurl }}/blog">News </a> &nbsp; &nbsp;
+        <a class="page-link" href="{{ site.baseurl }}/index">A propos / About</a>
+        <!-- <a class="page-link" href="http://129.194.69.137/wiki/">Wiki</a> -->
         {% include icon-twitter.html username=site.twitter_username %}   &nbsp;
         {% include icon-github.html username=site.github_username %}
 

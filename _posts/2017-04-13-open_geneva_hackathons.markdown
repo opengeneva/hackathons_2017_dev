@@ -2,7 +2,7 @@
 layout: post_old
 title:  "open geneva hackathons"
 date:   2017-04-10 15:06:26 +0200
-categories: jekyll update
+categories: organisation
 published: false
 ---
 
