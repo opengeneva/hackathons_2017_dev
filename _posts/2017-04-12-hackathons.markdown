@@ -34,6 +34,6 @@ categories: organisation
 <br>
 
 <div id="map"></div>
-<iframe src="http://129.194.69.137/map/" width="100%" height="500"></iframe>
+<iframe src="http://opengeneva.org/map/" width="100%" height="500"></iframe>
 
-<a href="http://129.194.69.137/map/"  target="_blank">[plein écran / full screen]</a>
+<a href="http://opengeneva.org/map/"  target="_blank">[plein écran / full screen]</a>
